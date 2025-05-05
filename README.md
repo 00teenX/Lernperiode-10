@@ -1,6 +1,6 @@
 # Lernperiode-10
 
-02.05 bis 04.04.2025
+02.05 bis 27.06.2025
 
 ## Grob-Planung
 
