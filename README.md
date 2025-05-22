@@ -17,9 +17,22 @@ Heute habe ich an meiner Bewerbungshomepage gearbeitet. Ich habe die Erfahrung-S
 
 ## 16.05.2025
 
-- [ ] Homepage
-- [ ] Kontakte Sektion
-- [ ] Webseite responsiv machen
-- [ ] Demo für mein TikTakToe Projekt einfügen
+- [x] Homepage
+- [x] Kontakte Sektion
+- [x] Webseite responsiv machen
+- [x] Demo für mein TikTakToe Projekt einfügen
+- [x] Lebenslauf anzeigen funktion
+- [x] Kontakt Sektion
+- [x] Social links unten rechts
+
+Heute habe ich meine Homepage fertig gemacht. Zuerst baute ich die neue Kontakt-Sektion ein und machte die Webseite responsiv. Dann habe ich ein Video-Modal für mein Tic-Tac-Toe-Projekt und einen Button, der meinen Lebenslauf direkt öffnet eingefügt. Zum Schluss platzierte ich unten rechts saubere Social-Links. Jetzt wirkt die ganze Seite vollständig und übersichtlich. {52 Wörter}
+
+## 23.05.2025
+
+- [ ] Eigenes Projekt (TermKit)
+- [ ] Projektstruktur anlegen
+- [ ] Brainstorming
+- [ ] Python Datei anfangen
+- [ ] JSON Datei mit Befehlen ausfüllen
 
 Heute habe ich...
