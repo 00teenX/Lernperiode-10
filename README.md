@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-1. In dieser Lernperiode werde ich ein C# Spiel und eine Webapplikation programmieren.
+1. In dieser Lernperiode werde ich ein Tool für das Terminal programmieren.
 
 ## 09.05.2025
 
