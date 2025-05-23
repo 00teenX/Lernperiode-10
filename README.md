@@ -25,7 +25,7 @@ Heute habe ich an meiner Bewerbungshomepage gearbeitet. Ich habe die Erfahrung-S
 - [x] Kontakt Sektion
 - [x] Social links unten rechts
 
-Heute habe ich meine Homepage fertig gemacht. Zuerst baute ich die neue Kontakt-Sektion ein und machte die Webseite responsiv. Dann habe ich ein Video-Modal für mein Tic-Tac-Toe-Projekt und einen Button, der meinen Lebenslauf direkt öffnet eingefügt. Zum Schluss platzierte ich unten rechts saubere Social-Links. Jetzt wirkt die ganze Seite vollständig und übersichtlich. {52 Wörter}
+Heute habe ich meine Homepage fertig gemacht. Zuerst baute ich die neue Kontakt-Sektion ein und machte die Webseite responsiv. Dann habe ich ein Video-Modal für mein Tic-Tac-Toe-Projekt und einen Button, der meinen Lebenslauf direkt öffnet eingefügt. Zum Schluss platzierte ich unten rechts saubere Social-Links. Jetzt wirkt die ganze Seite vollständig und übersichtlich. erjonhulaj-homepage.netlify.app {52 Wörter}
 
 ## 23.05.2025
 
