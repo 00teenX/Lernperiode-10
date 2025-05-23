@@ -30,8 +30,8 @@ Heute habe ich meine Homepage fertig gemacht. Zuerst baute ich die neue Kontakt-
 ## 23.05.2025
 
 - [ ] Eigenes Projekt (TermKit)
-- [ ] Projektstruktur anlegen
 - [ ] Brainstorming
+- [ ] Projektstruktur anlegen
 - [ ] Python Datei anfangen
 - [ ] JSON Datei mit Befehlen ausfüllen
 
