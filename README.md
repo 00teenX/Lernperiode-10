@@ -20,7 +20,7 @@ Heute habe ich an meiner Bewerbungshomepage gearbeitet. Ich habe die Erfahrung-S
 - [x] Homepage
 - [x] Kontakte Sektion
 - [x] Webseite responsiv machen
-- [x] Demo für mein TikTakToe Projekt einfügen
+- [x] Demo für mein TicTacToe Projekt einfügen
 - [x] Lebenslauf anzeigen funktion
 - [x] Kontakt Sektion
 - [x] Social links unten rechts
