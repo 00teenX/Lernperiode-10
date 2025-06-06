@@ -29,10 +29,25 @@ Heute habe ich meine Homepage fertig gemacht. Zuerst baute ich die neue Kontakt-
 
 ## 23.05.2025
 
-- [ ] Eigenes Projekt (TermKit)
-- [ ] Brainstorming
-- [ ] Projektstruktur anlegen
-- [ ] Python Datei anfangen
-- [ ] JSON Datei mit Befehlen ausfüllen
+- [x] Eigenes Projekt (TermKit)
+- [x] Brainstorming
+- [x] Projektstruktur anlegen
+- [x] Python Datei anfangen
+- [x] JSON Datei mit Befehlen ausfüllen
 
-Heute habe ich...
+Heute habe ich einen großen Schritt vorwärts gemacht: Ich habe die Grundstruktur von TermKit aufgesetzt, eine erste Python-Datei geschrieben und die JSON-Konfigurationsdateien mit sinnvollen Standardbefehlen befüllt. Beim Brainstorming wurde mir klar, wie wichtig eine saubere Kategorisierung ist, damit das Tool später wirklich intuitiv bleibt. Besonders zufrieden bin ich damit, dass die Basis bereits plattform­übergreifend ausgelegt ist. Gleichzeitig habe ich gemerkt, dass ich lieber früh real teste, um Einrückungs-Fehler oder Terminal-Besonderheiten sofort zu sehen, statt sie später mühsam zu suchen. {79 Wörter}
+
+## 06.06.2025
+
+- [x] Mehr Befehle einfügen in die JSON Datei
+- [x] Custom Befehle funktion
+- [x] Fehler beheben, dass immer angezeigt wird, dass es Kopiert wurde
+
+Heute habe ich mich darauf konzentriert, TermKit praxisnäher zu machen. Zuerst habe ich die JSON-Listen um viele nützliche macOS- und Windows-Kommandos erweitert, damit das Menü sofort Mehrwert bietet. Danach habe ich die Custom-Command Funktion eingebaut, inklusive eines Dialogs zum Hinzufügen und Entfernens eigener Befehle. Zum Schluss habe ich den Hinweis „Command copied“ so angepasst, dass er nur erscheint, wenn tatsächlich etwas kopiert wurde. {63 Wörter}
+
+## 13.06.2025
+
+- [ ] Testing auf Windows
+- [ ] Weiteres anschauen was ich einbauen wollte
+
+Heute habe ich ...
