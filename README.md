@@ -47,7 +47,16 @@ Heute habe ich mich darauf konzentriert, TermKit praxisnäher zu machen. Zuerst 
 
 ## 13.06.2025
 
-- [ ] Testing auf Windows
-- [ ] Weiteres anschauen was ich einbauen wollte
+- [x] Testing auf Windows
+- [x] Die zip Dateien für beide Downloads machen (Mac & Windows)
+- [x] Repo erstellen für das Projekt
+- [x] Projekt releasen
+
+
+Heute habe ich das Projekt erfolgreich veröffentlicht. Nach dem finalen Test auf Windows habe ich beide Plattform-ZIPs erstellt und in ein sauberes GitHub-Repository hochgeladen. Der Release ist jetzt öffentlich zugänglich. Es fühlt sich gut an, das Projekt abgeschlossen zu haben. Ich habe viel über saubere Installationsprozesse, Plattformunterschiede und Releases gelernt. Das motiviert mich für zukünftige Tools. https://github.com/erjonhulaj/TermKit {56 Wörter}
+
+## 20.06.2025
+
+- [ ] Modul 165 LB
 
 Heute habe ich ...
