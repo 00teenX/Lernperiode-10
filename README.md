@@ -57,6 +57,8 @@ Heute habe ich das Projekt erfolgreich veröffentlicht. Nach dem finalen Test au
 
 ## 20.06.2025
 
-- [ ] Modul 165 LB
+- [x] Modul 165 LB
 
-Heute habe ich ...
+Heute habe ich weiter an Handlungsziel 2 der Leistungsbeurteilung im Modul 165 gearbeitet. Ich bin dabei, den Rap-Datensatz in MongoDB und Cassandra zu importieren und erste Abfragen umzusetzen. Der Fokus liegt aktuell auf der Strukturierung der Daten und dem Verständnis der Unterschiede zwischen Dokument- und Wide-Column-Stores. Erste Selektionen und Aggregationen funktionieren bereits. Die Erweiterung des Datenmodells und Screenshots für das Portfolio will ich als nächstes machen. {64 Wörter}
+
+
